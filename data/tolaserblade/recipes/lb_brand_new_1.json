@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tolaserblade:lb_battery"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "item": "tolaserblade:lb_emitter"
+    },
+    {
+      "item": "tolaserblade:lb_casing"
+    },
+    {
+      "item": "tolaserblade:lb_blueprint"
+    }
+  ],
+  "result": {
+    "item": "tolaserblade:lb_brand_new_1"
+  }
+}
