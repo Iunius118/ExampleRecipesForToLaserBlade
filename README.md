@@ -1,2 +1,3 @@
 # ExampleRecipesForToLaserBlade
- Example recipes for ToLaserBlade v4
+
+Example of additional recipes for ToLaserBlade v4
