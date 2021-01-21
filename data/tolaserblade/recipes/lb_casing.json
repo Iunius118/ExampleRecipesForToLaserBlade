@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-      "b",
-      "i",
-      "i"
-    ],
-    "key": {
-      "b": {
-        "item": "tolaserblade:lb_blueprint"
-      },
-      "i": {
-        "tag": "forge:ingots/iron"
-      }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b",
+    "i",
+    "i"
+  ],
+  "key": {
+    "b": {
+      "item": "tolaserblade:lb_blueprint"
     },
-    "result": {
-      "item": "tolaserblade:lb_casing"
+    "i": {
+      "tag": "forge:ingots/iron"
     }
+  },
+  "result": {
+    "item": "tolaserblade:lb_casing"
   }
+}
