@@ -6,6 +6,9 @@
     },
     {
       "item": "minecraft:paper"
+    },
+    {
+      "tag": "forge:dyes/blue"
     }
   ],
   "result": {
