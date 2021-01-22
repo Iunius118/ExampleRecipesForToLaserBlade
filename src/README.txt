@@ -3,10 +3,10 @@
 
 README
 
-  This data pack is an example of additional recipes for ToLaserBlade v4.
+  This is an example data pack of additional recipes for ToLaserBlade v4.
 
-  Overwrite the recipes for Brand-new Laser Blade I and II, and add recipes for 
-  assembling the Laser Blades from parts.
+  This data pack overwrites the recipes for Brand-new Laser Blade I and II, 
+  and adds recipes for assembling the Laser Blades from parts.
 
 LICENSE
 
